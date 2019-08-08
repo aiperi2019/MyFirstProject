@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="3a7904ef-e1fc-4f8d-a31c-28f0b93f0ff5" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -376,5 +377,15 @@
         </settings>
       </state>
     </states>
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="240" />
+    <option name="y" value="125" />
+    <option name="width" value="1440" />
+    <option name="height" value="775" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+>>>>>>> 344a3cf605526365d2aa97d201b255189582da7b
   </component>
 </project>
